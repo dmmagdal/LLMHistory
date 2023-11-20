@@ -171,13 +171,17 @@ Description: Simple repo keeping track of the history of LLMs as they evolve. St
      - lucidrains [unofficial reformer implementation](https://github.com/lucidrains/reformer-pytorch)
      - Medium article: [The Illustrated Reformer](https://towardsdatascience.com/illustrating-the-reformer-393575ac6ba0) (member only story)
      - [Efficient Transformers: A survey](https://arxiv.org/pdf/2009.06732.pdf), submitted Sep 2020
+     - Medium article: [Sparse Transformers and Longformers: A comprehensive summary of space and time optimizations on Transformers(Part — 1)](https://medium.com/walmartglobaltech/sparse-transformers-and-longformers-a-comprehensive-summary-of-space-and-time-optimizations-on-4caa5c388693)
+     - Medium article: [Reformers and Performers: A comprehensive summary of space and time optimizations on Transformers (Part — 2)](https://medium.com/walmartglobaltech/reformers-and-performers-a-comprehensive-summary-of-space-and-time-optimizations-on-transformers-c00178e31843)
 
 
 ### Roformer
 
- - paper: [](), 
+ - paper: [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/pdf/2104.09864.pdf), submitted Apr 2021
  - GitHub: 
  - Additional links:
+     - Huggingface [model documentation](https://huggingface.co/docs/transformers/model_doc/roformer)
+     - Huggingface [contributed code](https://github.com/ZhuiyiTechnology/roformer)
      - AryaAftabs [tensorflow implementation](https://github.com/AryaAftab/rotary-embedding-tensorflow)
 
 
