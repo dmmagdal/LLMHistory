@@ -198,3 +198,14 @@ Description: Simple repo keeping track of the history of LLMs as they evolve. St
  - [The Pile datasheet](https://arxiv.org/pdf/2201.07311.pdf)
  - Huggingface datasets [model card](https://huggingface.co/datasets/EleutherAI/pile)
  - Huggingface datasets [model card](https://huggingface.co/datasets/the_pile_openwebtext2) (openwebtext2, derived from The Pile dataset)
+
+
+### Misc Resources
+
+ - Comparison of LLMs (from sapling.ai):
+     - [falcon v wizard](https://sapling.ai/llm/falcon-vs-wizard)
+     - [falcon v mpt](https://sapling.ai/llm/falcon-vs-mpt)
+     - [falcon v opt](https://sapling.ai/llm/falcon-vs-opt)
+     - [falcon v gpt-j](https://sapling.ai/llm/falcon-vs-gpt-j)
+     - [falcon v flan-t5](https://sapling.ai/llm/falcon-vs-flan-t5)
+     - [falcon v llama2](https://sapling.ai/llm/falcon-vs-llama2)
